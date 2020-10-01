@@ -12,4 +12,6 @@ and the name of the table is 'tbl_user' with 5 columns or attributes. <br/> Like
   <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/login.png" width="400">
   <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/dashboard.png" width="400">
   <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/changepass.png" width="400">
+  <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/passchange_mismatch.png" width="400">
+  <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/passchange_match.png" width="400">
 </p>

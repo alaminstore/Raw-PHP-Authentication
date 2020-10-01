@@ -5,3 +5,11 @@ and the name of the table is 'tbl_user' with 5 columns or attributes. <br/> Like
 <br/>
 <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/data_table.PNG">
 
+#### View: <br/>
+
+<p>
+  <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/reg.png">
+  <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/login.png">
+  <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/dashboard.png">
+  <img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/changepass.png">
+</p>

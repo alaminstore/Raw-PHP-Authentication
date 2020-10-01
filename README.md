@@ -1,4 +1,4 @@
-# Raw-PHP-Authentication
+# Raw-PHP-Authentication with Session
 You must have if you want to go through the raw the way...
 To run this project, you must need to create a database name: 'db_lr' <br/> 
 and the name of the table is 'tbl_user' with 5 columns or attributes. <br/> Like this, 

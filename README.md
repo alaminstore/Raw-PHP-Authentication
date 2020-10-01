@@ -3,7 +3,7 @@ You must have if you want to go through the raw the way...
 To run this project, you must need to create a database name: 'db_lr' <br/> 
 and the name of the table is 'tbl_user' with 5 columns or attributes. <br/> Like this, 
 <br/>
-<img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/data_table.PNG">
+<img src="https://github.com/alaminstore/Raw-PHP-Authentication/blob/master/screenshots/data_table.PNG" width="400">
 
 #### View: <br/>
 

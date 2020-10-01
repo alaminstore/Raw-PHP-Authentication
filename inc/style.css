@@ -1,0 +1,73 @@
+*{
+	margin:0;
+	padding:0;
+	}
+img{
+	border:0;
+}
+	
+a{
+	text-decoration:none!important;
+  
+	}
+
+ol,ul,li{
+   list-style:none;
+}}
+
+ol,ul{
+    list-style:none;
+    }
+.clr{
+    clear:both;
+}
+
+h1,h2,h3,h4,h5,h6,ol,ul,p,address{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.panel-heading h2{
+    font-family: -webkit-body;
+    text-align: center;
+}
+body{}
+..........
+/* now for bootstrap */
+p0{
+  padding-right:0;
+  padding-left:0;
+   }
+pl0{
+  padding-left:0;
+  }
+pr0{
+  padding-right:0;
+    }
+   
+@font-face{
+    font-family:open-bold;
+    src:url(../fonts/OpenSans_Semibold.otf);
+}
+@font-face{
+    font-family:open-reg;
+    src:url(../fonts/OpenSans_Regular.ttf);
+}
+@font-face{
+    font-family:mypro;
+    src:url(../fonts/Myriad_Pro_Semibold.ttf);
+}
+
+
+/* margin:top botton right left; */
+
+/*Main part Start*/
+.bg{
+    background-color: aqua;
+}
+.navbar li{
+  float:left;
+  margin: 0 20px!important;
+}
+.top{
+  margin-top:20px;
+}
